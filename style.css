@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(184, 184, 172);
+}
+
+.projects {
+  margin-top: 100px;
+}
+
+.bike {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: -30px;
+}
+
+.myself {
+  margin-left: 260px !important;
+}
