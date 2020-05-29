@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(184, 184, 172);
+  background-color: #323232;
 }
 
 .projects {
@@ -16,4 +16,19 @@ body {
 
 .myself {
   margin-left: 260px !important;
+}
+
+.project1 {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+}
+
+.backy {
+  background-color: #1b1b1b;
+  color: #fcbe2d;
+}
+
+.navigate {
+  background-color: #1b1b1b !important;
 }
